@@ -1,0 +1,7 @@
+C:\Users\tramr\source\repos\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.csproj.CoreCompileInputs.cache
+C:\Users\tramr\source\repos\SimpleCalc\SimpleCalc\bin\Debug\SimpleCalc.exe.config
+C:\Users\tramr\source\repos\SimpleCalc\SimpleCalc\bin\Debug\SimpleCalc.exe
+C:\Users\tramr\source\repos\SimpleCalc\SimpleCalc\bin\Debug\SimpleCalc.pdb
+C:\Users\tramr\source\repos\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.exe
+C:\Users\tramr\source\repos\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.pdb
+C:\Users\tramr\source\repos\SimpleCalc\SimpleCalc\obj\Debug\SimpleCalc.csprojAssemblyReference.cache

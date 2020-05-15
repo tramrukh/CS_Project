@@ -1,0 +1,17 @@
+C:\Users\tramr\source\repos\SimpleCalc\SimpleCalc.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\tramr\source\repos\SimpleCalc\SimpleCalc.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\tramr\source\repos\SimpleCalc\SimpleCalc.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\tramr\source\repos\SimpleCalc\SimpleCalc.Test.Unit\bin\Debug\SimpleCalc.Test.Unit.dll
+C:\Users\tramr\source\repos\SimpleCalc\SimpleCalc.Test.Unit\bin\Debug\SimpleCalc.Test.Unit.pdb
+C:\Users\tramr\source\repos\SimpleCalc\SimpleCalc.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\tramr\source\repos\SimpleCalc\SimpleCalc.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\tramr\source\repos\SimpleCalc\SimpleCalc.Test.Unit\bin\Debug\SimpleCalc.exe
+C:\Users\tramr\source\repos\SimpleCalc\SimpleCalc.Test.Unit\bin\Debug\SimpleCalc.pdb
+C:\Users\tramr\source\repos\SimpleCalc\SimpleCalc.Test.Unit\bin\Debug\SimpleCalc.exe.config
+C:\Users\tramr\source\repos\SimpleCalc\SimpleCalc.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\tramr\source\repos\SimpleCalc\SimpleCalc.Test.Unit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\tramr\source\repos\SimpleCalc\SimpleCalc.Test.Unit\obj\Debug\SimpleCalc.Test.Unit.csprojAssemblyReference.cache
+C:\Users\tramr\source\repos\SimpleCalc\SimpleCalc.Test.Unit\obj\Debug\SimpleCalc.Test.Unit.csproj.CoreCompileInputs.cache
+C:\Users\tramr\source\repos\SimpleCalc\SimpleCalc.Test.Unit\obj\Debug\SimpleCalc.Test.Unit.csproj.CopyComplete
+C:\Users\tramr\source\repos\SimpleCalc\SimpleCalc.Test.Unit\obj\Debug\SimpleCalc.Test.Unit.dll
+C:\Users\tramr\source\repos\SimpleCalc\SimpleCalc.Test.Unit\obj\Debug\SimpleCalc.Test.Unit.pdb
